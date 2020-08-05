@@ -4,12 +4,21 @@
 /node_modules
 /.pnp
 .pnp.js
+package-lock.json
 
 # testing
 /coverage
 
 # production
 /build
+
+#web
+.firebaserc
+firebase.json
+/src/firebase.js
+.firebase
+
+
 
 # misc
 .DS_Store
